@@ -1,14 +1,14 @@
-### Hi there 👋 Thom Here. Welcome on my Github
+### <h1>Hi there 👋 Thom Here. Welcome on my Github</h1>
 
 I am a student software engineering at the The Hague University of Applied Sciences.
 
-### Hallo daar 👋 Thom Hier. Welkom op mijn Github
+### <h1>Hallo daar 👋 Thom Hier. Welkom op mijn Github</h1>
 
 Ik ben een Student software engineering bij de Haagse Hogeschool.
 
 I use the following language/technologies/ Ik programmeer in de volgende Talen/technieken:<br>
 <div>
-  <h2>Backend</h2> :<br>
+  <h2>Backend:</h2> <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
