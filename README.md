@@ -1,12 +1,12 @@
 ### Hi there 👋 Thom Here. Welcome on my Github
 
-Student software engineering at the The Hague University of Applied Sciences.
+I am a student software engineering at the The Hague University of Applied Sciences.
 
 ### Hallo daar 👋 Thom Hier. Welkom op mijn Github
 
-Student software engineering bij de Haagse Hogeschool.
+Ik ben een Student software engineering bij de Haagse Hogeschool.
 
-Ik programmeer in de volgende Talen/technieken/ I use the following language/technologies:<br>
+I use the following language/technologies/ Ik programmeer in de volgende Talen/technieken:<br>
 <div>
   Backend :<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
