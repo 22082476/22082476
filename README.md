@@ -31,7 +31,7 @@ Ik ben een Student software engineering bij de Haagse Hogeschool.
   <br>
   <h3>Tools:</h3><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
   <br>
   <h3>Data:</h3><br>
