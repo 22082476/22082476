@@ -12,6 +12,7 @@ Ik ben een Student software engineering bij de Haagse Hogeschool.
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
+  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
   <br>
