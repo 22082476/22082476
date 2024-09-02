@@ -1,4 +1,4 @@
-<img src="https://github.com/22082476/22082476/blob/main/LinkedIn%20banner%20Thom%20Versluis.png" width="1584" heigth="396" />
+<img src="https://github.com/22082476/22082476/blob/main/LinkedIn%20banner%20Thom%20Versluis.png](https://github.com/22082476/22082476/blob/main/harborn-header.jpg)" width="1584" heigth="396" />
 
 ### <h1>Hi there 👋 Thom Here. Welcome on my Github</h1>
 
